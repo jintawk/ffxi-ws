@@ -1,2 +1,5 @@
 # ffxi-ws
-FFXI WS addon
+
+Simple FFXI addon that uses a weapon skill at 100%
+
+Currently the WS is hard coded
